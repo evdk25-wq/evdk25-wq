@@ -8,7 +8,7 @@ My Main Project
 **[Barbossa Scan](https://github.com/evdk25-wq/Barbossa-Scan)**
 A professional security audit tool for Linux systems, combining ClamAV and rkhunter.
 
-### 🛠️ Technologies & Skills
+Technologies & Skills
 - **Scripting**: Bash / Shell
 
 
