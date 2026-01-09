@@ -1,21 +1,20 @@
-# 👨‍💻 Hello, I am JLVDK95 (EVDK_87)
+Hello, I am JLVDK95 (EVDK_87)
 
-> Linux Enthusiast | Developer of Barbossa Scan
+> Linux Enthusiast 
 
----
 
-### ⚓ My Main Project
+
+My Main Project
 **[Barbossa Scan](https://github.com/evdk25-wq/Barbossa-Scan)**
-A professional security audit tool for Linux systems, combining ClamAV and rkhunter with a custom pirate-themed interface.
+A professional security audit tool for Linux systems, combining ClamAV and rkhunter.
 
 ### 🛠️ Technologies & Skills
 - **Scripting**: Bash / Shell
-- **Security**: System Hardening, Virus Scanning, Rootkit Detection
-- **Tools**: GitHub, Kate, Dolphin File Manager
 
-### 📊 GitHub Stats
+
+GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=evdk25-wq&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evdk25-wq&layout=compact&theme=tokyonight)
 
----
+
 *Created by JLVDK95 - 2026*
