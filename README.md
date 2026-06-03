@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=11,15,20,30&height=200&section=header&text=Edwin%20Van%20Der%20Kelen&fontSize=50&fontColor=fff&animation=fadeIn" alt="Header" />
-</p>
+### JLVDK95
+
 
 <p align="center">
   <a href="mailto:evdk25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -43,13 +42,12 @@ Final-year Computer Science Bachelor's student at **ICC Brussels**. Specializing
 
 #### State Bank Solution
 A full-stack banking simulation engineered for high precision and robust data handling.
-* **Backend:** Java Spring Boot with **BigDecimal** for financial accuracy and custom exception handling.
+* **Backend:** Java Spring Boot with **BigDecimal** for financial accuracy.
 * **Architecture:** N-Tier structure with UML 2.0 specifications modeled on **Gaphor**.
-* **Frontend:** Dynamic dashboard using asynchronous JavaScript and Fetch API.
 
 #### Barbossa Scan
 A professional security audit tool for Linux environments.
-* Combines **ClamAV** and **rkhunter** engines for vulnerability and malware assessment.
+* Combines **ClamAV** and **rkhunter** engines for malware assessment.
 * Automated reporting via advanced Bash scripting.
 
 ---
@@ -60,12 +58,5 @@ A professional security audit tool for Linux environments.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=evdk25-wq&theme=radical&area=true&hide_border=true" width="100%" alt="Performance Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evdk25-wq&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evdk25-wq&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
-<p align="center">
-  <i>Final-year Student @ ICC Bruxelles | Developer | Linux Enthusiast</i>
-</p>
