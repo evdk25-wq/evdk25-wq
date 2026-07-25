@@ -1,8 +1,10 @@
-### JLVDK95
-
 <p align="center">
   <a href="https://github.com/evdk25-wq"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+
+
+
+### JLVDK95
 
 > **Bienvenue chers recruteurs !**  
 > Cette page regroupe l'ensemble des projets présentés sur mon CV, accompagnés de réalisations complémentaires, d'architectures complètes et de code source détaillé. Bonne visite !
@@ -43,22 +45,22 @@ Final-year Computer Science Bachelor's student at **ICC Brussels**. Specializing
 
 ### Core Projects & Experience
 
-#### State Bank Solution
+#### [State Bank Solution](https://github.com/evdk25-wq/State-Bank)
 A full-stack banking simulation engineered for high precision and robust data handling.
 * **Backend:** Java Spring Boot with **BigDecimal** for financial accuracy.
 * **Architecture:** N-Tier structure with UML 2.0 specifications modeled on **Gaphor**.
 
-#### ProjectC (SaaS Mobile Port)
+#### [ProjectC (SaaS Mobile Port)](https://github.com/evdk25-wq/ProjectC)
 Full-featured iOS and Android mobile app port for a web SaaS platform using React Native and Expo.
 * **Architecture:** Strict Clean Architecture and SOLID principles with TypeScript.
 * **Security & Network:** OAuth2 PKCE authentication via Keycloak and full token lifecycle management.
 
-#### NoGaspi
+#### [NoGaspi](https://github.com/evdk25-wq/NoGaspi)
 Smart anti-food waste mobile application suggesting recipes based on user inventory.
 * **Frontend:** Cross-platform React Native and Expo interface with Lottie animations.
 * **Features:** Ingredient filtering, recipe generation, user history, and favorite management.
 
-#### SHPortfolio
+#### [SHPortfolio](https://evdk25-wq.github.io/SHPortfolio/)
 Interactive portfolio with a custom visual theme built for high performance.
 * **Frontend:** Modular CSS3 with clamp() functions, semantic HTML5, and Vanilla JS.
 * **Performance:** Native Canvas 2D particle rendering engine and WebP asset optimization.
