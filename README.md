@@ -68,7 +68,7 @@ Interactive portfolio with a custom visual theme built for high performance.
 ### GitHub Performance
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/evdk25-wq/evdk25-wq/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://ghchart.rshah.org/evdk25-wq" alt="Graphique des contributions GitHub de evdk25-wq" width="100%" />
 </p>
 
 ---
