@@ -6,8 +6,16 @@
 
 ### JLVDK95
 
-> **Bienvenue chers recruteurs !**  
+# JLVDK95
+
+> 🇫🇷 **Bienvenue chers recruteurs !**  
 > Cette page regroupe l'ensemble des projets présentés sur mon CV, accompagnés de réalisations complémentaires, d'architectures complètes et de code source détaillé. Bonne visite !
+
+---
+
+> 🇬🇧 **Welcome recruiters!**  
+> This page features all the projects showcased on my resume, along with additional achievements, complete architectures, and detailed source code. Enjoy exploring!features all the projects showcased on my resume, along with additional achievements, complete architectures, and detailed source code. Enjoy exploring!
+
 
 
 
