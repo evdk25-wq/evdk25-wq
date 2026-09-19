@@ -78,7 +78,19 @@ Interactive portfolio with a custom visual theme built for high performance.
 ### GitHub Performance
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/evdk25-wq" alt="Graphique des contributions GitHub de evdk25-wq" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evdk25-wq&theme=github_dark" alt="Profile details" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=evdk25-wq&theme=github_dark" alt="Top languages by repo" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=evdk25-wq&theme=github_dark" alt="Top languages by commit" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=evdk25-wq&theme=github_dark" alt="Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=evdk25-wq&theme=github_dark&utcOffset=1" alt="Commits by hour" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/evdk25-wq" alt="Graphique des contributions GitHub de evdk25-wq" width="100%" />
+</p>
